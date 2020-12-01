@@ -7,4 +7,5 @@ First, we'll scrape team data, including team name, conference, win-loss percent
 If you'd like to explore the data, you can access and use the csv files from our Google Drive:
 
 NBA Team Stats 2016-2020: https://drive.google.com/file/d/130BewO9dBGYjHicr_1y-1xWZB-HFWfQ3/view?usp=sharing
+
 NBA Player Stats 2016-2020: https://drive.google.com/file/d/1t7hcd6-M7RxTn7WZsA1s4O-6njcwS4X0/view?usp=sharing
